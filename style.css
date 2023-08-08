@@ -68,7 +68,7 @@ h1 {
 
 @media (max-width: 768px) {
   html {
-    font-size: 80%;
+    font-size: 90%;
   }
 
   .button {
@@ -78,10 +78,10 @@ h1 {
 
 @media (max-width: 576px) {
   html {
-    font-size: 70%;
+    font-size: 80%;
   }
 
   .button {
-    font-size: 85%;
+    font-size: 80%;
   }
 }
