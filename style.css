@@ -66,12 +66,22 @@ h1 {
   display: none;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   html {
-    font-size: 60%;
+    font-size: 80%;
   }
 
-  .body {
-    min-height: 4000px;
+  .button {
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 576px) {
+  html {
+    font-size: 70%;
+  }
+
+  .button {
+    font-size: 85%;
   }
 }
