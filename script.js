@@ -156,8 +156,8 @@ function showAnswer() {
     incorrectAnswersHtml += `
       <p>
         <strong>Pertanyaan:</strong> ${incorrectAnswers[i].question}<br>
-        <strong>Jawaban Kamu:</strong> ${incorrectAnswers[i].incorrectAnswer}<br>
-        <strong>Jawaban Benar:</strong> ${incorrectAnswers[i].correctAnswer}
+        <strong style="color:red;">Jawaban Kamu: ${incorrectAnswers[i].incorrectAnswer}</strong><br>
+        <strong style="color:green;">Jawaban Benar: ${incorrectAnswers[i].correctAnswer}</strong>
       </p>
     `;
   }
