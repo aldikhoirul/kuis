@@ -64,6 +64,7 @@ h1 {
 
 .hide {
   display: none;
+  margin-top: 15px;
 }
 
 @media (max-width: 768px) {
