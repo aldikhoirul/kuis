@@ -5,13 +5,13 @@ const quizData = [
     answer: "Kue salah buat",
   },
   {
-    question: "Makanan favorit mampir?",
+    question: "Makanan favorit vampir?",
     options: ["Darah segar", "Darah merah", "Darah lama", "Orang darah tinggi"],
     answer: "Orang darah tinggi",
   },
   {
     question: "Dosa apa yang di benci setan?",
-    options: ["Menggoda setan wanita", "Menculik anak setan", "Membohongi setan", "Tampar setan"],
+    options: ["Menggoda setan wanita", "Menculik anak setan", "Membohongi setan", "Pukul setan"],
     answer: "Menculik anak setan",
   },
   {
@@ -31,7 +31,7 @@ const quizData = [
   },
   {
     question: "Apa fungsi rem pada kendaraan bermotor?",
-    options: ["Untuk menghentikan motor", "Sebagai pengaman saat ngebut", "Accessories aja", "Untuk dilempar ke maling"],
+    options: ["Untuk menghentikan motor", "Sebagai pengaman saat ngebut", "Accessories aja", "Buat lempar maling"],
     answer: "Sebagai pengaman saat ngebut",
   },
   {
